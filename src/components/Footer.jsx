@@ -4,9 +4,8 @@ const Footer = () => {
   return (
     <footer>
          <div>
-            <h1> TechyStar</h1>
-            <p>@all right reserved</p>
-         </div>
+            <h1> TechSolver</h1>
+            </div>
          <div>
             <h5>Follow us</h5>
             <div> <a href="https://www.instagram.com/shubham___dhingra/ " target="blank" >Instagram</a>

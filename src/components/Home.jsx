@@ -5,7 +5,7 @@ const Home = () => {
   return (<>
     <div className='home' id="home">
         <main>
-    <h1>TechyStar</h1>
+    <h1>TechSolver</h1>
     <p>Solution to all your problems</p>
     </main>
     </div>
@@ -13,14 +13,14 @@ const Home = () => {
 <img src={vg} alt = 'Graphics' />
 <div>
   <p>We are your one and only solution to the tech problems you face
-  every day. We are leading tech company whose aim is to increase the problem solving ability in children.
-  </p>
+  every day. </p>
 </div>
     </div>
     <div className="home3" id="about">
 <div><h1>Who we are?</h1>
 <p>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum exercitationem vel quos quod sed alias minima libero fugit quis corrupti repudiandae perferendis ratione repellat omnis, quibusdam expedita nemo vitae ab sapiente veritatis asperiores itaque! Reiciendis, ea. Laboriosam temporibus blanditiis saepe minus labore, esse nam perferendis fugit dignissimos quibusdam et eius asperiores neque veniam, magnam </p></div>
+"We are a dedicated team passionate about solving everyday tech challenges. With expertise in various domains, we craft innovative solutions to simplify your digital life. Our mission is to empower users with seamless experiences, offering reliable support and guidance every step of the way."
+   </p></div>
 
 
     </div>
